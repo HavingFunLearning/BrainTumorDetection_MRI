@@ -1,0 +1,5 @@
+#!/Users/simoneboesso/Desktop/BrainTumorDetection_MRI/BrainMRI/bin/python3.11
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
