@@ -6,6 +6,7 @@ The dataset is taken from kaggle at the following link: [here](https://www.kaggl
 This was a toy use case using C-NN for classification of brain masses;
 - The architecture used is taken from tutorial videos [here](https://www.youtube.com/@MLDawn)
 - I developted this project for improving my DL skills for images
+- I learnt how to visualize which are the features that are relevant in a given image and a given kernel.
 
 ## Observations:
 - Here, already at the 10 epoch, I get perfect metrics. Obviously, this is due to the really different and clearly separable pictures.
