@@ -8,3 +8,6 @@ This was a toy use case using C-NN for classification of brain masses;
 
 ## Observations:
 - Here, already at the 10 epoch, I get perfect metrics. Obviously, this is due to the really different and clearly separable pictures.
+
+## Code:
+- Here, the code is [here](https://github.com/SimBoex/BrainTumorDetection_MRI/blob/b83e07beea37d08ff3e7bd0386ffa523ee051aa9/CNN_Model.ipynb)
