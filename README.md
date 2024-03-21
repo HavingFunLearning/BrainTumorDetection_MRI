@@ -6,6 +6,7 @@ The dataset is taken from kaggle at the following link: [here](https://www.kaggl
 ## Overview
 This was a toy use case using C-NN for classification of brain masses;
 - The architecture used is EfficientNet;
+  ![img2](https://github.com/SimBoex/BrainTumorDetection_MRI/blob/b2a2f32ee0aa21f3435d37f0d120e29fb7774ab2/EfficientNet-baseline-network-B0-architecture.png)
 - The small dataset problem was overcomed using Transfer knowledge and augumentation;
 
 
